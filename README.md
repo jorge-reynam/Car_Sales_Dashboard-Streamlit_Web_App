@@ -1,5 +1,4 @@
 # Car Sales Dashboard - Streamlit Web App
-
 This project consists of building an interactive web application using **Streamlit** to explore and visualize car sales data.  
 The goal is to simulate a real-world data workflow: from environment setup and exploratory data analysis (EDA) to deploying a functional web application accessible online.
 
