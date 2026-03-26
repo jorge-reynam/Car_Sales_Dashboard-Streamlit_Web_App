@@ -1,12 +1,41 @@
-# Sprint-7_Project
+# Car Sales Dashboard - Streamlit Web App
 
-Análisis Interactivo de Vehículos Usados
+## Project Overview
+This project consists of building an interactive web application using **Streamlit** to explore and visualize car sales data.  
 
-Esta aplicación web, desarrollada con Streamlit, permite explorar y analizar datos sobre vehículos usados de forma interactiva. El proyecto utiliza Python, Pandas y Plotly para ofrecer visualizaciones dinámicas que ayudan a comprender mejor el comportamiento del mercado automotriz.
+The goal is to simulate a real-world data workflow: from environment setup and exploratory data analysis (EDA) to deploying a functional web application accessible online.
 
-Funcionalidades principales:
--Visualización de histogramas: permite observar la distribución de variables como el precio, el año del modelo o el kilometraje.
+## Objectives
+- Perform basic exploratory data analysis (EDA)
+- Build an interactive dashboard using Streamlit
+- Visualize data using Plotly
+- Deploy a web application using Render
+- Practice software engineering workflows (Git, environments, deployment)
 
--Gráficos de dispersión: muestran la relación entre diferentes variables (por ejemplo, precio vs. año del modelo).
+## Technologies Used
+- **Python**
+- **pandas** – data manipulation
+- **plotly** – interactive visualizations
+- **streamlit** – web application framework
+- **Render** – deployment platform
+- **Git & GitHub** – version control
 
--Comparación de modelos de autos: facilita analizar las diferencias de precio entre distintos tipos de vehículos (SUV, sedán, pickup, etc.).
+## Features
+The web application includes:
+
+- Interactive dashboard for car sales data  
+- Histogram visualization (e.g., odometer distribution)  
+- Scatter plot (e.g., price vs mileage)  
+- User interaction via buttons or checkboxes  
+- Real-time chart generation  
+
+## Exploratory Data Analysis (EDA)
+
+EDA was performed in a Jupyter Notebook to:
+- Understand dataset structure
+- Identify key variables
+- Generate initial visualizations
+- Prepare data for the web app
+
+## Live Demo
+[View the app here](https://sprint-7-project-1-jr1r.onrender.com)
